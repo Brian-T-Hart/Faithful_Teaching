@@ -1,0 +1,92 @@
+body {
+	margin-bottom: 50px;
+}
+
+p {
+	text-indent: 50px;
+}
+
+a:visited {
+	color: #fff;
+}
+
+span {
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
+#smallLogo {
+	height: 100%;
+	width: auto;
+}
+
+#wclogoImg {
+	width: 13%;
+}
+
+.navbar {
+	background-color: #cdcdcc;
+	margin: 0px;
+}
+
+#jumbotron {
+	background-color: #bd3333;
+	color: #fff;
+	margin-bottom: 50px;
+}
+
+#whatButton {
+	float: left;
+}
+
+#howButton {
+	float: right;
+}
+
+#titleDiv {
+	font-size: 48px;
+	margin: 30px;
+}
+
+#pyramidDiv {
+	margin: auto;
+	padding-right: 40px;
+	/*border: 3px solid blue;*/
+}
+
+.pyramidImg {
+	/*border: 3px dashed red;*/
+	margin: auto;
+	display: block;
+	width: 45%;
+}
+
+.pyramidImg:hover {
+	width: 75%;
+}
+
+.textDiv {
+	width: 60%;
+	font-size: 20px;
+}
+
+#buttonRow {
+	width: 60%;
+	display: block;
+	margin: auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+#backBtn {
+	font-size: 18px;
+	float: left;
+}
+
+#nextBtn {
+	font-size: 18px;
+	float: right;
+}
+
+#textButton {
+	margin: 20px;
+}
